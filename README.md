@@ -34,3 +34,13 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 * [Spiral](https://spiral.dev/) - A high performance PHP/Go framework.
 * [Symfony](https://symfony.com/) - A set of reuseable components and a web framework.
 * [Yii2](https://github.com/yiisoft/yii2/) - A fast, secure, and efficient web framework.
+
+### Micro Frameworks
+*Micro frameworks and routers.*
+
+* [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
+* [Lumen](https://lumen.laravel.com) - A micro-framework by Laravel.
+* [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
+* [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
+* [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
+* [Slim](https://www.slimframework.com/) - Another simple micro framework.
