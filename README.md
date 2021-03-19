@@ -10,6 +10,15 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Dependency Management
 
+* [Composed](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
+* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
+* [Composer Patches](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
+* [Prestissimo](https://github.com/hirak/prestissimo) - A composer plugin which enables parallel install process.
+* [Repman](https://repman.io) - A private PHP package repository manager and Packagist proxy.
+* [Satis](https://github.com/composer/satis) - A static Composer repository generator.
+* [tooly](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in project using Composer.
+* [Toran Proxy](https://toranproxy.com) - A static Composer repository and proxy.
+
 ### Frameworks
 
 * [CakePHP](https://cakephp.org/) - A rapid application development framework.
